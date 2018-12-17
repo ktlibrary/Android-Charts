@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Kline colors -->
+    <color name="redcandle">#c82a1d</color>
+    <color name="greencandle">#3c874b</color>
+    <color name="minute_line_color">#0b6ae3</color>
+    <color name="minute_fold_color">#ffbb00</color>
+    <color name="xy_line_color">#c0bfbf</color>
+    <color name="border_color">#c0bfbf</color>
+    <color name="crossline_color">#686464</color>
+    <color name="crossline_font_color">#686464</color>
+    <color name="longitude_line_color">#e5e5e5</color>
+    <color name="longitude_font_color">#adadad</color>
+    <color name="day_5">#e50492</color>
+    <color name="day_10">#ff6c00</color>
+    <color name="day_20">#288eea</color>
+</resources>
